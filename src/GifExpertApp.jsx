@@ -26,4 +26,4 @@ const GifExpertApp = () => {
   )
 }
 
-export default GifExpertApp
+export default GifExpertApp;
